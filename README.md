@@ -3,7 +3,7 @@
 ![Modife-Dev-Name](https://img.shields.io/badge/ModifyRepoDev-K3rnel-red)
 [![Language](https://img.shields.io/badge/Language-Python-e4181c.svg?labelColor=000000)](https://github.com/K3rnel-dev/SubAct/)
 <div align="center">
-<img src="https://github.com/K3rnel-Dev/SubAct/blob/main/screens/screen.png" width='750px' height='500px' alt="KernelSploitusScreen">
+<img src="https://github.com/K3rnel-Dev/SubAct/blob/main/screens/screen.png" width='500px' height='450px' alt="KernelSploitusScreen">
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=320&width=500&lines=Domains+Active;Checker+Active" alt="Metasploit-automator">
 <hr>
